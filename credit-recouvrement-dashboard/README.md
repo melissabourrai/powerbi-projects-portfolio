@@ -43,7 +43,7 @@ Ce dashboard a été conçu pour fournir aux équipes du service Crédit & Recou
 
 | Vue d’ensemble | Détail par segment |
 |----------------|--------------------|
-| ![](./screenshots/global-overview.png) | ![](./screenshots/segment-focus.png) |
+| ![](./image002.png) | ![](./image003.png) |
 
 ---
 
