@@ -73,6 +73,7 @@ Ce dashboard a été conçu pour fournir aux équipes du service Crédit & Recou
 ✅ Mise en place d’un reporting automatisé partagé chaque mois avec les équipes de recouvrement  
 ✅ Gain de temps estimé à 2h / jour pour l’équipe  
 ✅ Meilleure réactivité sur les retards de paiement à +90j
+
 ✅ Visibilité sur les litiges et contournemment des problémes liées aux factures impayés 
 
 ---
