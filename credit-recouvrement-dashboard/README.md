@@ -33,8 +33,8 @@ Ce dashboard a été conçu pour fournir aux équipes du service Crédit & Recou
 
 **Indicateurs développés :**
 - 🔴 Montant total en retard
-- 🟡 Variations mensuelles du montant 
-- 🟢 Regrouppement des clients par agent de recouverement associé
+- 🟡 Variations mensuelles des montants 
+- 🟢 Regroupement des clients par agent de recouvrement associé
 - 🔍 Répartition des créances par tranches d’échéance (0-30j, 30-60j, 60-90j, >90j)
 
 ---
@@ -51,9 +51,9 @@ Ce dashboard a été conçu pour fournir aux équipes du service Crédit & Recou
 
 - **Power Query** : transformation des tables de comptabilité et CRM
 - **DAX** : mesures pour le suivi des créances échues, retards dynamiques, variations annuelles & mensuelles %
-- **Filtres synchronisés** pour navigation fluide par région / péridode fiscale / litige / agent responsable
+- **Filtres synchronisés** pour navigation fluide par région / période fiscale / litige / agent responsable
 - **Bookmarks** pour vues par tranche de retard
-- **Alertes visuelles** via code couleur automatique / sympoles (fléches)
+- **Alertes visuelles** via code couleur automatique / symboles (fléches)
 
 ---
 
@@ -73,8 +73,7 @@ Ce dashboard a été conçu pour fournir aux équipes du service Crédit & Recou
 ✅ Mise en place d’un reporting automatisé partagé chaque mois avec les équipes de recouvrement  
 ✅ Gain de temps estimé à 2h / jour pour l’équipe  
 ✅ Meilleure réactivité sur les retards de paiement à +90j
-
-✅ Visibilité sur les litiges et contournemment des problémes liées aux factures impayés 
+✅ Visibilité sur les litiges et contournement des problèmes liés aux factures impayées 
 
 ---
 
