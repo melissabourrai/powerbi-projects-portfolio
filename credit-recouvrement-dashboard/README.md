@@ -1,6 +1,6 @@
 # 💳 Dashboard - Analyse des créances clients
 
-> 📍 Projet réalisé en entreprise dans le cadre de mon alternance (service Crédit & Recouvrement)
+> 📍 Projet réalisé en entreprise dans le cadre d'une mission en tant que Consultante Data Analyst finance (service Crédit & Recouvrement)
 
 ---
 
@@ -50,32 +50,31 @@ Ce dashboard a été conçu pour fournir aux équipes du service Crédit & Recou
 ## ⚙️ Fonctions techniques
 
 - **Power Query** : transformation des tables de comptabilité et CRM
-- **DAX** : mesures pour le suivi des créances échues, retards dynamiques, % recouvré
-- **Filtres synchronisés** pour navigation fluide par région / commercial
+- **DAX** : mesures pour le suivi des créances échues, retards dynamiques, variations annuelles & mensuelles %
+- **Filtres synchronisés** pour navigation fluide par région / péridode fiscale / litige / agent responsable
 - **Bookmarks** pour vues par tranche de retard
-- **Alertes visuelles** via code couleur automatique
+- **Alertes visuelles** via code couleur automatique / sympoles (fléches)
 
 ---
 
 ## 🧠 Compétences mobilisées
 
 - Analyse métier dans un contexte financier réel
-- Traitement de données multi-source (ERP, fichiers Excel)
-- Construction d’un modèle relationnel optimisé
+- Traitement de données multi-source (ERP, fichiers Excel, base de données oracle)
+- Construction d’un modèle relationnel optimisé sur Power Pivot
 - Maîtrise de DAX et Power Query
-- Communication avec les métiers (finance, recouvrement, commerce)
+- Communication avec les métiers (finance, recouvrement, contrôle de gestion)
+- Publication et actualisation automatique sur Power bi Service 
 
 ---
 
 ## 🚀 Impact du projet
 
-✅ Mise en place d’un reporting automatisé partagé chaque semaine avec les équipes de recouvrement  
+✅ Mise en place d’un reporting automatisé partagé chaque mois avec les équipes de recouvrement  
 ✅ Gain de temps estimé à 2h / jour pour l’équipe  
 ✅ Meilleure réactivité sur les retards de paiement à +90j
+✅ Visibilité sur les litiges et contournemment des problémes liées aux factures impayés 
 
 ---
-
-📁 Fichiers disponibles :
-- `screenshots/` – Captures d’écran du dashboard
 
 📫 Me contacter : **[mel.bourrai2019@gmail.com]**
