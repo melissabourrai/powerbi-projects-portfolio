@@ -12,12 +12,13 @@ Ce dashboard a été conçu pour fournir aux équipes du service Crédit & Recou
 - Identifier les **retards de paiement** par tranche d’échéance
 - Prioriser les **actions de recouvrement**
 - Faciliter les échanges avec les équipes commerciales et comptables
+- Traitement efficaces des litiges 
 
 ---
 
 ## 🧩 Données et indicateurs clés
 
-> ⚠️ Les données sont confidentielles. Les captures d’écran ci-dessous sont floutées ou modifiées à des fins de démonstration.
+> ⚠️ Les données sont confidentielles. Les captures d’écran ci-dessous sont floutées à des fins de démonstration.
 
 **Colonnes principales utilisées :**
 - `Client ID`
@@ -26,13 +27,14 @@ Ce dashboard a été conçu pour fournir aux équipes du service Crédit & Recou
 - `Montant échus`
 - `Échéance`
 - `Nombre de jours de retard`
-- `Segment client` (B2B, Particulier, Grand Compte...)
-- `Responsable commercial`
+- `Agent de recouvrement`
+- `Période fiscale`
+- `Raisons des litiges`
 
 **Indicateurs développés :**
 - 🔴 Montant total en retard
-- 🟡 Retard moyen en jours
-- 🟢 Pourcentage de recouvrement sur les 30 derniers jours
+- 🟡 Variations mensuelles du montant 
+- 🟢 Regrouppement des clients par agent de recouverement associé
 - 🔍 Répartition des créances par tranches d’échéance (0-30j, 30-60j, 60-90j, >90j)
 
 ---
